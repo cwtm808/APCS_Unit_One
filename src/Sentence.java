@@ -12,17 +12,15 @@
   It is a great 
   time to be a 
   computer programmer!
-  
-*/
+ */
+  public class Sentence {
 
-public class Sentence {
-
-    public static void main(String[] args) {
-        //first output statement
-
-        //second output statement
-
-        //third output statement
-
-    }
+  public static void main(String[] args) {
+        System.out.print("It is a great");
+        //first.output. statement
+        System.out. print("time to be a");
+        //second. output.statement
+        System. out. print("time to be a");
+        //third. output. statement;
+     }
 }

@@ -9,11 +9,11 @@
 
 */
     public class NameAndSchool {
-        public static void main(String[] args) {
+        public static void main(String[] arg) {
             //output statement for your first name (please change what is below)
-            System.out.print("Brian");
+            System.out.print("Tony Meng");
             //output statement for your last name
-
+  System.out.print("Sandy Spring Friends School");
             //output statement for your school
 
         }
